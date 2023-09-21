@@ -15,7 +15,7 @@ This WebSite I use templete idea from free website templete I write code follow 
 
 **lang:** html, css and js
 
-**Libary:** swiper and SweetAlert2
+**Libary:** swiper 
 
 
 ## Preview
