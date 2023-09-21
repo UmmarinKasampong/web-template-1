@@ -1,7 +1,7 @@
 
 # Web Templete Learning 1
 
-This WebSite I use templete idea from free website templete I write code follow model templete by Html , Css , Js and some libary for create silde 
+This WebSite I use templete idea from free website templete I write code follow model templete by Html , Css and Js only
 
 
 
@@ -11,11 +11,9 @@ This WebSite I use templete idea from free website templete I write code follow 
 
 
 
-## Lang and Libary
+## Lang
 
 **lang:** html, css and js
-
-**Libary:** swiper 
 
 
 ## Preview
